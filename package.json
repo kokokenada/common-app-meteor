@@ -1,0 +1,26 @@
+{
+  "name": "common-app-meteor",
+  "version": "0.0.1",
+  "description": "a library to plug meteor capabilities into common-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokokenada/common-app-meteor.git"
+  },
+  "keywords": [
+    "meteor",
+    "redux",
+    "redux-package",
+    "angular",
+    "react"
+  ],
+  "author": "Ken Ono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokokenada/common-app-meteor/issues"
+  },
+  "homepage": "https://github.com/kokokenada/common-app-meteor#readme"
+}
